@@ -1,2 +1,2 @@
 # Many_body_simulation
-Simulation of many graviotationally attracted bodies using SDL2.
+Simulation of many gravotationally attracted bodies using SDL2.
